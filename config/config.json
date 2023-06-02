@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0xc5A4f9e536D5ACe66138303c74ecfAb645a4B31E",
+  "SCAN_LINK": "",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Ether",
+    "ID": 1
+  },
+  "NFT_NAME": "BitcoinBoyz",
+  "SYMBOL": "BTCBOYZ",
+  "MAX_SUPPLY": 6969,
+  "FREE_SUPPLY": 1500,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 20,
+  "MAX_PER_TX_FREE": 5,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bitcoinboyz",
+  "Telegram": "",
+  "Discord": "",
+  "Twitter": "https://twitter.com/BitcoinBoyzNft",
+  "SHOW_BACKGROUND": true
+}
